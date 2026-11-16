@@ -19,7 +19,7 @@ Currently working on Screenshotter.exe and discord css themes.
 ![](https://github-contributor-stats.vercel.app/api?username=M5K40&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=M5K40)
+<p align="center"> Total Views
 <p align="center">
   <img src="https://count.getloli.com/@Visits?theme=moebooru&padding=7&offset=0&align=top&scale=1.1&pixelated=1&darkmode=auto" alt="Visitor Counter" />
 </p>
